@@ -1,9 +1,8 @@
 # Multi-Container Runtime with Kernel Memory Monitor
 
 ## 👥 Team Information
+Amith Prasad(PES1UG24AM033)
 
-* Ananthakrishna M A (PES1UG24AM036)
-* Akash G K (PES1UG24AM022)
 
 ---
 
