@@ -59,12 +59,6 @@ OS-Jackfruit/
 
 ---
 
-## 📸 Output
-
-Screenshots of execution are available in the **OUTPUTS/** folder.
-
----
-
 ## 📖 Learning Outcomes
 
 * Understanding container-like execution
